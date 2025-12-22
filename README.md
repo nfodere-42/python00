@@ -1,6 +1,8 @@
 # Python Module 00
 Python Module 00 is the first Python module at 42 school. Here you learn basic concepts about working with methods and an introduction to OOP.
 
+![](images/logo_python00.png)
+
 ## Exercices description
 `ft_hello_garden.py (ex0)`: Prints a simple welcome message for the community garden.
 
