@@ -1,7 +1,7 @@
 # Python Module 00
 Python Module 00 is the first Python module at 42 school. Here you learn basic concepts about working with methods and an introduction to OOP.
 
-## Exercices
+## Exercices description
 `ft_hello_garden.py (ex0)`: Prints a simple welcome message for the community garden.
 
 `ft_plot_area.py (ex1)`: Asks for length and width, then calculates and prints the plot area.
@@ -19,3 +19,5 @@ Python Module 00 is the first Python module at 42 school. Here you learn basic c
 `ft_garden_summary.py (ex6)`: Collects garden name and plant count, then prints a formatted summary.
 
 `ft_seed_inventory.py (ex7)`: Displays seed inventory information depending on the unit type (packets, grams and area).
+
+***This project has been created as part of the 42 curriculum by Néo Foderé de Frutos (nfodere-)***
