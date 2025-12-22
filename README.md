@@ -19,5 +19,3 @@ Python Module 00 is the first Python module at 42 school. Here you learn basic c
 `ft_garden_summary.py (ex6)`: Collects garden name and plant count, then prints a formatted summary.
 
 `ft_seed_inventory.py (ex7)`: Displays seed inventory information depending on the unit type (packets, grams and area).
-
-`main.py`: A Python Module 00 tester provided by 42.
