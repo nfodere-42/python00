@@ -1,5 +1,6 @@
 # Python Module 00
 ![](images/logo_python00.png)
+
 Python Module 00 is the first Python module at 42 school. Here you learn basic concepts about working with Python functions and get an introduction to OOP.
 
 ## Exercices description
