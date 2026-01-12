@@ -23,4 +23,4 @@ Python Module 00 is the first Python module at 42 school. Here you learn basic c
 
 `src/ex7/ft_seed_inventory.py`: Displays seed inventory information depending on the unit type (packets, grams and area).
 
-***This project has been created as part of the 42 curriculum by Néo Foderé de Frutos (nfodere-), a student at 42 Barcelona***
+***This project has been created as part of the 42 curriculum by Néo Foderé de Frutos (nfodere-), student at 42 Barcelona***
