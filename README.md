@@ -1,5 +1,5 @@
 # Python Module 00
-![](images/logo_python00.png)
+<img src="images/logo_python00.png" width="512" hegiht="auto">
 
 ## Description
 Python Module 00 is the first Python module at 42 school. Here you learn basic concepts about working with Python functions.
